@@ -3,7 +3,6 @@ title: "Cómo uso IA en mi flujo de trabajo sin dejar de pensar"
 publishDate: "2026-05-01"
 description: "No fui early adopter entusiasta. Lo adopté despacio, con desconfianza. Y creo que eso fue una ventaja."
 tags: ["claude code", "copilot", "workflow", "react", "reflexión"]
-pinned: true
 ---
 
 Cuando GitHub Copilot empezó a aparecer en los flujos de trabajo de mi equipo, no lo rechacé — lo observé. Antes de adoptarlo quería entender qué papel iba a jugar en mi forma de trabajar. La pregunta que me hice desde el principio fue: ¿cómo sabes que el código que aceptas es realmente funcional sino lo entiendes?
