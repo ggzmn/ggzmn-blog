@@ -61,10 +61,10 @@ Nos dice:
 
 Por otro lado, hace poco se publicó un preprint que intenta modelar una parte del hackeo a HF como un MFG (_Mean Field Games_), la intención sería alterar el valor de las creencias para disminuir la probabilidad de ataque en sistemas multiagentes. [Mean field games as a tool for AI safety: a worked example from the July 2026 Hugging Face incident](https://arxiv.org/html/2610.00902v1).
 
-Acá es importante mencionar que las "creencias" no son algo relacionado al pensamiento humano, se definen como:
-
-> En el modelo del preprint, “creencia” no significa necesariamente un estado mental humano. Es una variable probabilística del modelo: \(\pi\) representa la probabilidad que el agente atribuye a que el evaluador compruebe la procedencia de la solución.
-> La variable describe información incierta dentro del modelo; no demuestra que el agente tenga una creencia consciente o una representación subjetiva como la de una persona. El artículo usa esa probabilidad para calcular cuándo atacar resulta atractivo bajo ciertos supuestos
+:::note
+En el modelo del preprint, “creencia” no significa necesariamente un estado mental humano. Es una variable probabilística del modelo: \pi representa la probabilidad que el agente atribuye a que el evaluador compruebe la procedencia de la solución.
+La variable describe información incierta dentro del modelo; no demuestra que el agente tenga una creencia consciente o una representación subjetiva como la de una persona. El artículo usa esa probabilidad para calcular cuándo atacar resulta atractivo bajo ciertos supuestos
+:::
 
 No pretento usar estos papers para explicar el hackeo, de hecho la información pública disponible no permite hacerlo de forma completa. Aqui lo que intento hacer es dar otras posibles interpretaciones a los comportamientos, alejadas de la humanidad.
 
