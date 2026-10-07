@@ -110,8 +110,6 @@ Es támbien notable como el hype, la mala y buena promoción beneficia a las cor
 
 No afirmo que OpenAI este mintiendo sobre sus resultados, mi crítica es más limitada: la narrativa puede avanzar más rápido que la evidencia pública disponible, y esa distancia merece investigación.
 
-Pareciera que muchos olvidamos que contarle al mundo la historia de un "enjambre de agentes de IA" con autonomía cognitiva y cooperativa puede convertirse un espectacúlo bullicioso para los inversionistas.
-
 Y ahí esta parte de la trampa: cuando llamamos "enjambre autónomo" a los agentes que, dentro de un entorno restringido, encontraron rutas para hackear a HF, dejamos a un lado preguntas incómodas:
 
 - ¿Quien y cómo definieron la recompensa?
