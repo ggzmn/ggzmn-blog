@@ -3,7 +3,6 @@ title: "Open AI y el incidente de Hugging Face"
 description: "Hablemos de los cuatro patrones de desalineación que notaron en el hackeo de HF"
 publishDate: 2026-09-10
 tags: ["openai", "agentesia", "huggingface", "seguridad"]
-pinned: true
 ---
 
 Estaba leyendo una entrada del blog de [Sean Goedecke](https://www.seangoedecke.com/why-we-should-anthropomorphize-ai-agents/) acerca del reciente reporte de Open AI: [OpenAI – Hugging Face
