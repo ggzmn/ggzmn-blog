@@ -8,13 +8,29 @@ pinned: true
 
 ## Uso de modelos de LLM para escribir
 
-Inspirado en el blog de [Cassidy Williams](https://cassidoo.co/ai/)
+Inspirado en el blog de [Cassidy Williams](https://cassidoo.co/ai/).
 
-Todos los posts son de mi autoría, no uso IA/LLM para escribir. Escribir es un hobbie personal que intento cultivar.
+Todos los posts son de mi autoría. No uso IA para redactar, pero sí como apoyo durante la investigación y la organización de ideas.
 
-En mi día a día suelo usar Claude y Perplexity, para hacer código me apoyo de Copilot y Claude Code.
+Escribir es un hobby personal que intento cultivar.
 
-¿Para que uso Claude y perplexity? Investigación, búsqueda de D.O.I/papers, sugerencia de blogs para leer, libros, fuentes en internet en inglés,
-revisión gramatical, porqué suelo "comerme", acentos y comas. En general mucha investigación de fuentes de información. Me apoyo particularmente en Claude par propuestas de estructura del post, ya que suele ser la parte más caótica para mi (muchas ideas poca organización).
+En mi día a día suelo usar Claude y Perplexity. Para código, me apoyo en Copilot y Claude Code.
 
-Las definiciones más estrictas suelen venir de algún sitio web y que siempre trato de citar...
+¿Para qué uso Claude y Perplexity a la hora de redactar?
+
+- Investigación y búsqueda de DOIs, papers y fuentes en internet.
+- Sugerencias de blogs, libros y materiales para leer.
+- Revisión gramatical, porque suelo "comerme" acentos y comas.
+- Propuestas de estructura para los posts, ya que suele ser la parte más caótica para mí... Muchas ideas y poca organización.
+
+Las definiciones más estrictas suelen venir de algún sitio web, y siempre trato de citarlas.
+
+## Disclaimer
+
+Mis posts no son revisiones sistemáticas, selecciono fuentes que considero útiles y relevantes para entender un concepto, sus límites, cuestionar mis premisas y fundamentar mi punto de vista.
+
+No hago un curado exhaustivo de papers, estadísticas o métodos; no me daría la vida.
+
+Así que si encuentras un error, una interpretación discutible o una fuente más sólida, dímelo: con gusto lo revisamos y agrego una nota al pie.
+
+_Los agentes de IA no escriben por mí. Los uso para leer más, organizar mejor y aprender en el camino._
