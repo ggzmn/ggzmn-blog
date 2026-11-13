@@ -22,15 +22,11 @@ User-agent: cohere-ai
 User-agent: MistralAI-Training
 Disallow: /
 
--# 1.1 Chinese Search Engines
+-# 1.1 Others Chinese Search Engines
 -User-agent: Sogou Spider
 -User-agent: Sogou web spider
 -User-agent: Bytespider
--User-agent: DeepSeekBot
--User-agent: KimiBot
 -User-agent: Kimi-User
--User-agent: PetalBot
--User-agent: Baiduspider
 -User-agent: YisouSpider
 -Disallow: /
 
